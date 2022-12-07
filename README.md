@@ -1,7 +1,6 @@
 <h1 align="left">Hi there, I'm Hugo 👋 Hugo Mendez</h1>
 <h3 align="left">Backend Developer</h3>
 
-<hr>
 
 <ul>
   <li>🌱 I’m currently learning **JavaScript, C++, MongoDB**</li>
