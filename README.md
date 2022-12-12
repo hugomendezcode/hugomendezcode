@@ -3,8 +3,8 @@
 
 
 <ul>
-  <li>🌱 I’m currently learning **JavaScript, C++, MongoDB**</li>
-  <li>📫 How to reach me **hdme0301@gmail.com**</li>
+  <li>🌱 I’m currently learning JavaScript, C++, MongoDB</li>
+  <li>📫 How to reach me hdme0301@gmail.com</li>
   
 </ul>
 
